@@ -23,6 +23,7 @@
 7. Hale Ilkcakin
 8. Admir Kurtovic
 9. Ricardo Barba
+10.Heber Luna
 
 
 # Hacktoberfest 2017 participants:
